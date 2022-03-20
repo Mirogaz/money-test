@@ -12,12 +12,12 @@
   letter-spacing: 0px;
   text-transform: capitalize;
   box-shadow: 0 0 10px 1px black;
-}
 
-.button:hover {
-  box-shadow: none;
-}
+  &:hover {
+    box-shadow: none;
+  }
 
-.button:active {
-  box-shadow: none;
+  &:active {
+    box-shadow: none;
+  }
 }
